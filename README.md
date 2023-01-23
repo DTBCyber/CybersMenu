@@ -1,5 +1,5 @@
 
-![calciHtmlLogo](https://i.file.glass/b4dda9.gif)
+
 
 # How To Download Cyber's Menu?
 

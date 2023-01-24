@@ -25,3 +25,9 @@ https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.0
 
 This link may be out of date, so check
 for the latest release on github
+
+
+
+# Join The Discord!
+
+***https://discord.gg/RNE7gaKE***

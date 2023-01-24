@@ -9,7 +9,10 @@ The Sidebar. **Install Guide Below.**
 
 # How To Install Cyber's Menu?
  Download Monke Mod Manager (download the latest release).
- Open Monke Mod Manager, And Install Everything In **Libraries**.
+ Open Monke Mod Manager, And Install From What Is In The Image Below.
+ 
+ ![DownloadThis](https://user-images.githubusercontent.com/119136143/214201473-c6bc60a8-0208-49d1-b605-c0765e1cd5a2.png)
+ 
  In Monke Mod Manager, Click **Utilites** And Select **BepInEx** Folder.
  In The BepInEx Folder, Open Plugins And Drag The  **CyberMenu.DLL**  In there.
 

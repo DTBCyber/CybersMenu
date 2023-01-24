@@ -11,7 +11,7 @@ The Sidebar. **Install Guide Below.**
  Download Monke Mod Manager (download the latest release).
  Open Monke Mod Manager, And Install From What Is In The Image Below.
  
- ![DownloadThis](https://user-images.githubusercontent.com/119136143/214201473-c6bc60a8-0208-49d1-b605-c0765e1cd5a2.png)
+ ![DownloadThis](https://user-images.githubusercontent.com/119136143/214298102-bfa5291c-42bd-43bd-8421-7ed8ccf34c57.png)
  
  In Monke Mod Manager, Click **Utilites** And Select **BepInEx** Folder.
  In The BepInEx Folder, Open Plugins And Drag The  **CyberMenu.DLL**  In there.

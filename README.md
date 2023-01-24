@@ -30,4 +30,4 @@ for the latest release on github
 
 # Join The Discord!
 
-***https://discord.gg/RNE7gaKE***
+***https://discord.gg/RNE7gaKE*** - Get early access to menu's, chat with other modders, play with others.

@@ -9,7 +9,7 @@ The Sidebar. **Install Guide Below.**
 
 # How To Install Cyber's Menu?
  Download Monke Mod Manager (the latest release).
- Open Monke Mod Manager, Install What Is Shown **🢇**
+ Open Monke Mod Manager, & Install What Is Shown Below.
  
  ![DownloadThis](https://user-images.githubusercontent.com/119136143/214298102-bfa5291c-42bd-43bd-8421-7ed8ccf34c57.png)
  
